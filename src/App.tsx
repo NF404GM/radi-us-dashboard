@@ -1,1 +1,5 @@
-export default function App() { return <div>Welcome to Radi.us Artist Dashboard</div>; }
+import React from 'react';
+
+export default function App() {
+  return <h1>Welcome to Radi.us Artist Dashboard</h1>;
+}
